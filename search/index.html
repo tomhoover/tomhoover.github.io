@@ -5,14 +5,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>My Prayer &#8211; tomhoover [dot] net</title>
+<title>Search &#8211; tomhoover [dot] net</title>
 
-<meta name="keywords" content="">
+
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="My Prayer">
+<meta name="twitter:title" content="Search">
 
 <meta name="twitter:site" content="@tom_hoover">
 <meta name="twitter:creator" content="@tom_hoover">
@@ -23,16 +23,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="My Prayer">
+<meta property="og:title" content="Search">
 
-<meta property="og:url" content="/my-prayer/">
+<meta property="og:url" content="/search/">
 <meta property="og:site_name" content="tomhoover [dot] net">
 
 
 
 
 
-<link rel="canonical" href="/my-prayer/">
+<link rel="canonical" href="/search/">
 <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="tomhoover [dot] net Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -72,7 +72,7 @@
 
 </head>
 
-<body id="post">
+<body id="page">
 
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
@@ -117,46 +117,36 @@
 <div class="js-menu-screen menu-screen"></div>
 
 <div id="main" role="main">
-  <article class="hentry">
+  <article class="entry">
     
     <div class="entry-wrapper">
       <header class="entry-header">
-        <span class="entry-tags"></span>
-        
-          <h1 class="entry-title">My Prayer</h1>
-        
+        <h1 class="entry-title">Search</h1>
       </header>
-      <footer class="entry-meta">
-        
-        
-        
-          <img src="/images/bio-photo-alt.jpg" class="bio-photo" alt="Tom Hoover bio photo"></a>
-        
-        <span class="author vcard">By <span class="fn">Tom Hoover</span></span>
-        <span class="entry-date date published"><time datetime="2006-01-29T00:00:00-06:00"><i class="fa fa-calendar-o"></i> January 29, 2006</time></span>
-        
-        
-        
-        
-      </footer>
       <div class="entry-content">
-        <p>Lord, I shall not fret about yesterday, for yesterday is no more.  I shall not
-fear tomorrow, for tomorrow is yet to come.  So, Lord, at least in some small
-way I shall try to deserve today.  Amen.</p>
+        <!-- Search form -->
+<form method="get" action="/search/" data-search-form="" class="simple-search">
+  <label for="q">Search tomhoover [dot] net for:</label>
+  <input type="search" name="q" id="goog-wm-qt" placeholder="What are you looking for?" data-search-input="" />
+  <input type="submit" value="Search" id="goog-wm-sb" />
+</form>
 
-<p><em>-Author Unknown</em></p>
+<!-- Search results placeholder -->
+<h6 data-search-found="">
+  <span data-search-found-count=""></span> result(s) found for &ldquo;<span data-search-found-term=""></span>&rdquo;.
+</h6>
+<ul class="post-list" data-search-results=""></ul>
 
-        
+<!-- Search result template -->
+<script type="text/x-template" id="search-result">
+  <li><article>
+    <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
+  </article></li>
+</script>
+
+
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
-    <nav class="pagination" role="navigation">
-      
-        <a href="/romans-1-16/" class="btn" title="Romans 1:16">Previous</a>
-      
-      
-        <a href="/one-of-the-most-memorable-christmas-days-in-my-life/" class="btn" title="One of the most memorable Christmas days in my life.">Next</a>
-      
-    </nav><!-- /.pagination -->
   </article>
 </div><!-- /#main -->
 
@@ -189,7 +179,7 @@ way I shall try to deserve today.  Amen.</p>
 <script src="/assets/js/scripts.min.js"></script>
 
 
-	        
+          
 
 </body>
 </html>
