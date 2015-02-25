@@ -1,7 +1,7 @@
 default: serve
 
 diff:
-	diff -rx .git -x _config.yml -x _posts -x theme-setup -x navigation.yml -X .gitignore ../gh_mmistakes/so-simple-theme .
+	diff -rx .git -x _config.yml -x _posts -x theme-setup -x navigation.yml -X .gitignore ../gh_mmistakes/so-simple-theme . | colordiff | less -eR
 
 serve:
 	bundle exec jekyll serve
