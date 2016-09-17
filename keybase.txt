@@ -1,0 +1,61 @@
+==================================================================
+https://keybase.io/tomhoover
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tomhoover.net
+    * I am tomhoover (https://keybase.io/tomhoover) on keybase.
+      * I have a public key ASDTWb4okyt21v_FMD62kVl6Lz3IBRCpPr0BPogJVpyejQo
+
+      To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+                    "eldest_kid": "0120d359be28932b76d6ffc5303eb691597a2f3dc80510a93ebd013e8809569c9e8d0a",
+                                "host": "keybase.io",
+                                            "kid": "0120d359be28932b76d6ffc5303eb691597a2f3dc80510a93ebd013e8809569c9e8d0a",
+                                                        "uid": "0d40654d7cb1d068e6938bed80017e19",
+                                                                    "username": "tomhoover"
+                                                                            
+        },
+        "service": {
+            "hostname": "tomhoover.net",
+                        "protocol": "http:"
+                                
+        },
+                "type": "web_service_binding",
+                        "version": 1
+                            
+    },
+    "client": {
+        "name": "keybase.io go client",
+                "version": "1.0.17"
+                    
+    },
+        "ctime": 1474145936,
+            "expire_in": 504576000,
+            "merkle_root": {
+        "ctime": 1474145895,
+                "hash": "b08024a93130f4f5ace5e309ebb9b7eecbcf8ded3bdacc133509cda630c9b7850a933c3391e2f9dfb8f0df18c065e44c5df929742b604dc32f3986b445d1aff6",
+                        "seqno": 641234
+                            
+            },
+                "prev": "da642ddb3aad7a16451740b36e9786345cf1d536bc8cd8b12c3ac62227ec992b",
+                    "seqno": 16,
+                        "tag": "signature"
+
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg01m+KJMrdtb/xTA+tpFZei89yAUQqT69AT6ICVacno0Kp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDM1OWJlMjg5MzJiNzZkNmZmYzUzMDNlYjY5MTU5N2EyZjNkYzgwNTEwYTkzZWJkMDEzZTg4MDk1NjljOWU4ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDM1OWJlMjg5MzJiNzZkNmZmYzUzMDNlYjY5MTU5N2EyZjNkYzgwNTEwYTkzZWJkMDEzZTg4MDk1NjljOWU4ZDBhIiwidWlkIjoiMGQ0MDY1NGQ3Y2IxZDA2OGU2OTM4YmVkODAwMTdlMTkiLCJ1c2VybmFtZSI6InRvbWhvb3ZlciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidG9taG9vdmVyLm5ldCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzQxNDU5MzYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3NDE0NTg5NSwiaGFzaCI6ImIwODAyNGE5MzEzMGY0ZjVhY2U1ZTMwOWViYjliN2VlY2JjZjhkZWQzYmRhY2MxMzM1MDljZGE2MzBjOWI3ODUwYTkzM2MzMzkxZTJmOWRmYjhmMGRmMThjMDY1ZTQ0YzVkZjkyOTc0MmI2MDRkYzMyZjM5ODZiNDQ1ZDFhZmY2Iiwic2Vxbm8iOjY0MTIzNH0sInByZXYiOiJkYTY0MmRkYjNhYWQ3YTE2NDUxNzQwYjM2ZTk3ODYzNDVjZjFkNTM2YmM4Y2Q4YjEyYzNhYzYyMjI3ZWM5OTJiIiwic2Vxbm8iOjE2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCKn/nSx3rNL/H0MEARMyOuadbBbRRFuGDzk7xW4mifRT9W5R/wTv0uaIUDYo9phOMs+PvDHQc1x44Qpda3KMgCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCHLAUeVe5SOCI4Q9PfM3lHxmAqXjREv5tCVVhDheRTGqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomhoover
+
+==================================================================
+
